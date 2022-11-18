@@ -2,7 +2,7 @@
 
 - 🔭 Estudande Universitario
 - 👯 Amante da Musica 
-- ⚡ Desenvolvedor Back End iniciante 
+- ⚡ Desenvolvedor Back End 
 - 🐍 Python
 
 <div align="center">
