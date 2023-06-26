@@ -1,7 +1,6 @@
 ## Olá! Eu sou Diogowg12 
 
 - 🔭 Estudande Universitario
-- 👯 Amante da Musica 
 - ⚡ Desenvolvedor Back End 
 - 🐍 Python
 
