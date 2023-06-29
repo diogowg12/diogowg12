@@ -33,28 +33,12 @@
 
 
 <details>
-<p align="center">
+<div align="center">
   <a href="https://github.com/diogowg12">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wervlad&theme=transparent" />
-  </a>
-  <a href="https://github.com/diogowg12">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/diogowg12">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wervlad&theme=transparent" />
-  </a>
-  <a href="https://github.com/diogowg12">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wervlad&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
-</details>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogowg12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogowg12&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-<p align="center">
-  <a href="https://github.com/diogowg12">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
-  </a>
-</p>
-<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
